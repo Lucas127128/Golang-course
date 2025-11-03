@@ -1,0 +1,6 @@
+[
+  {
+    "label": "run golang",
+    "command": "go run $$ZED_FILE"
+  }
+]
