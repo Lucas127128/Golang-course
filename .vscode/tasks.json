@@ -9,7 +9,7 @@
 		},{
 			"label": "run go code",
 			"type": "shell",
-			"command":"${fileDirname}/${fileBasenameNoExtension};"
+			"command":"go run ${file};"
 
 		}
 	]
